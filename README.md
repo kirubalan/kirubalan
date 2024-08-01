@@ -34,4 +34,4 @@
 
 ## 🎨 Animations
 
-![Animated GIF](https://media.giphy.com/media/3o7TKw6o2x82MkGZmU/giphy.gif)
+![Animated GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA4ZW9oOTBrNjc5aHhqYXQ4MWN2ejdldWJqempkOGh5NHg2MmoydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rhZr8u3cvxe0ksf1ej/giphy.webp)
