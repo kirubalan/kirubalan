@@ -1,10 +1,15 @@
-# 💫 About Me: 
+💫 About Me:
+🔭 I’m currently working on ASP.NET Core, ASP.NET MVC, ASP.NET Web API, WebForms, Windows Forms, Docker, AWS EC2 instance deployment, Azure VM deployment, IIS deployment, and various integrations.
 
+👯 I’m looking to collaborate on innovative projects involving microservices, API integrations, and cloud deployments.
 
+🤝 I’m looking for help with optimizing performance in large-scale applications, improving security practices, and exploring new tech stack advancements.
 
- 
- 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact 
-  
+🌱 I’m currently learning more about advanced Docker configurations, cloud-native architectures, and the latest updates in .NET technologies.
+
+💬 Ask me about .NET development, API integrations, cloud deployments, and performance optimization.
+
+⚡ Fun fact: I have a knack for integrating various APIs and services to build robust, scalable solutions.
   
  ## 🌐 Socials: 
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kirubalan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imperial_red_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kirubalan.a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Selfcoding)  
@@ -15,4 +20,3 @@
  # 📊 GitHub Stats: 
  ![](https://github-readme-stats.vercel.app/api?username=kirubalan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=kirubalan&theme=dark&hide_border=false)<br/> 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kirubalan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layou
